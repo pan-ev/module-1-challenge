@@ -7,4 +7,4 @@
 
 Deployed Application [Link](https://pan-ev.github.io/module-1-challenge/)
 
-![Submission Image](./Develop/assets/images/module-1_submission.png)
+![Submission Image](./docs/assets/images/module-1_submission.png)
